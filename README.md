@@ -3,7 +3,7 @@
 **CS Student | ML Engineer in Progress | Open-Source Builder | Data Science**
 
 <p align="right">
-  <img src="annoyed-lightfury.gif" alt="Light Fury" />
+  <img src="annoyed-lightfury.gif" alt="Light Fury" width=100 />
 </p>
 
 <!--
