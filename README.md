@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -  How to reach me: aryavani15@gmail.com
 -  Fun fact: closely related to feline
 
-<p align="right">
+<p align="center">
   <img src="annoyed-lightfury.gif" alt="Light Fury" width=300 />
 </p>
 
