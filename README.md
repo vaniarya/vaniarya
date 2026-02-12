@@ -2,8 +2,9 @@
 
 **CS Student | ML Engineer in Progress | Open-Source Builder | Data Science**
 
-![Lightfury]((https://tenor.com/view/lebron-lebron-james-dragon-toothless-explosion-gif-15708246344014196835))
-
+<p align="right">
+  <img src="annoyed-lightfury.gif" alt="Light Fury" />
+</p>
 
 <!--
 **vaniarya/vaniarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
