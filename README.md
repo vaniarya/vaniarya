@@ -2,10 +2,6 @@
 
 **CS Student | ML Engineer in Progress | Open-Source Builder | Data Science**
 
-<p align="right">
-  <img src="annoyed-lightfury.gif" alt="Light Fury" width=100 />
-</p>
-
 <!--
 **vaniarya/vaniarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -15,6 +11,10 @@ Here are some ideas to get you started:
 -  I’m currently learning AI/Machine learning fundamentals
 -  How to reach me: aryavani15@gmail.com
 -  Fun fact: closely related to feline
+
+<p align="right">
+  <img src="annoyed-lightfury.gif" alt="Light Fury" width=300 />
+</p>
 
 ---
 
