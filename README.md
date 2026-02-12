@@ -1,6 +1,12 @@
 ## Hi I'm Vani
 
 **CS Student | ML Engineer in Progress | Open-Source Builder | Data Science**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaniarya/vaniarya/output/animation.svg" />
+</p>
+
+
 <!--
 **vaniarya/vaniarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
