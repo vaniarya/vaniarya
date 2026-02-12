@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Tech Stack
 - **Languages:** Python, Java, C++  
 - **ML:** NumPy,Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, Data processing and pipelines, FEature engg, model building  
-- **Tools:** Git&GIthub,Anaconda Navigator (JupyterLab),IntelliJ IDEA, VS Code, Terminal, linux bf (he uses arch btw)
+- **Tools:** Git&GIthub,Anaconda Navigator (JupyterLab),IntelliJ IDEA, VS Code, Terminal
 
 ---
 
