@@ -2,9 +2,7 @@
 
 **CS Student | ML Engineer in Progress | Open-Source Builder | Data Science**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaniarya/vaniarya/output/lightfury.svg" />
-</p>
+![Lightfury]((https://tenor.com/view/lebron-lebron-james-dragon-toothless-explosion-gif-15708246344014196835))
 
 
 <!--
