@@ -9,7 +9,6 @@
 -  I’m currently working on curating ML notebooks 
 -  I’m currently learning AI/Machine learning fundamentals
 -  How to reach me: aryavani15@gmail.com
--  Fun fact: closely related to feline
 
 <p align="center">
   <img src="annoyed-lightfury.gif" alt="Light Fury" width=300 />
